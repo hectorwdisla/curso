@@ -1,4 +1,4 @@
-# .*. coding: utf-8 .*.
+# .*. coding: utf-8 .*. hola
 {
     'name': 'Odoo Academy',
     'summary': """Academy app to manage Training""",

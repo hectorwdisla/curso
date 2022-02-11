@@ -8,7 +8,7 @@
         - Sesions
         - Attendees
         """,
-    'autohr':'Odoo',
+    'author':'Odoo',
     'website': 'https://odoo.com',
     'category':'Training',
     'version':'0.1',

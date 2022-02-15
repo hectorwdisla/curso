@@ -1,9 +1,9 @@
 # .*. coding: utf-8 .*. hola
 {
     'name': 'Odoo Academy',
-    'summary': """Academy app to manage Training""",
+    'summary': """App para manegar entrenamientos en linea""",
     'description': """
-        Academy Module to manage Training:
+        Modulo de Academia digital para entrenamientos en linea:
         - Courses
         - Sesions
         - Attendees
